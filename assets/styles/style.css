@@ -518,6 +518,7 @@ Contact section
   text-align: center;
   border-bottom-left-radius: var(--radious);
   border-bottom-right-radius: var(--radious);
+  border: none;
 }
 @media screen and (min-width: 768px) {
   .contact-info,

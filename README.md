@@ -24,7 +24,7 @@ Tea Station is a website created for learning purposes. Whit the use of HTML5, C
 - connecting for receiving emails (Formspree).
 
 ## Why Floats?
-You can still find code still written or depends on CSS. So it's good to be familiar with it.
+Even so Flexbox and Grid are modern solutions, you can still find code written whit CSS Floats and websites which still depends on it. So it's good to be familiar with them.
 
 ## Built from source:
 

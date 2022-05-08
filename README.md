@@ -23,7 +23,7 @@ Tea Station is a website created for learning purposes. Whit the use of HTML5, C
 - server-side hosting of icons (Font Awesome),
 - connecting for receiving emails (Formspree).
 
-## Why FLoats?
+## Why Floats?
 You can still find code still written or depends on CSS. So it's good to be familiar with it.
 
 ## Built from source:
